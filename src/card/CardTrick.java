@@ -50,6 +50,18 @@ public class CardTrick {
         } else {
             System.out.println("Sorry, the lucky card is not in the magic hand.");
         }
+        
+        
+
     }
+      
+      
+      
 }
+
+      
+      
+
+
+
 
